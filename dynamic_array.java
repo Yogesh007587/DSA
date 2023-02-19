@@ -1,5 +1,5 @@
-import java.util.*;
-import java.util.ArrayList;
+// import java.util.*;
+// import java.util.ArrayList;
 class dynamicarray{
     int size;
     int capacity = 10;

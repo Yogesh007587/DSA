@@ -1,6 +1,6 @@
 // Java program to solve fractional Knapsack Problem
 
-import java.io.*;
+// import java.io.*;
 import java.util.Arrays;
 import java.util.Comparator;
 
