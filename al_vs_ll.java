@@ -27,7 +27,6 @@ public class al_vs_ll {
         // arraylist.get(500000);
         // arraylist.get(999999);
         arraylist.remove(0);
-
         endtime = System.nanoTime();
         elapsedtime = endtime-starttime;
         System.out.println("ArrayList:\t"+elapsedtime +"ns");
